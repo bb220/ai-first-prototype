@@ -1,4 +1,4 @@
-# 🧪 AI-first application prototype
+# 🧪 AI-first Application Prototype
 
 An AI-first application prototype with a conversational interface. This project includes a modern full-stack architecture with:
 
